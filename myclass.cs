@@ -4,6 +4,6 @@ my class file
 	{
 		clear();
 	}
-	//comment
+	//comment - changes for desktop
 
 };
