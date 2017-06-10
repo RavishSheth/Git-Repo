@@ -4,5 +4,6 @@ my class file
 	{
 		clear();
 	}
+	//comment
 
 };
